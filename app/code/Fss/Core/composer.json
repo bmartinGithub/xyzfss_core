@@ -3,6 +3,18 @@
   "version": "1.0.0",
   "description": "N/A",
   "type": "magento2-module",
+  "keywords": ["base", "magento"],
+    "homepage": "https://github.com/bmartinGithub/xyzfss_core",
+    "authors": [
+        {
+            "name": "Bruce Martin",
+            "email": "bmartin@famous-smoke.com",
+            "homepage": "https://famous-smoke.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    },
 
   "license": [
     "Proprietary"
